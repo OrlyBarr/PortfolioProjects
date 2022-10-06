@@ -1,3 +1,1 @@
-app/* linguist-documentation=false
-dist/* linguist-vendored=false
-*.sql linguist-language=sql
+*.sql linguist-detectable=true
