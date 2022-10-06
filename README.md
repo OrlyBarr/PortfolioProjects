@@ -4,9 +4,9 @@ from 2020 to 2022, includes the following:
 
 The analysis about the pandemic like:
 * International reference:
-  -Total infected cases
-  -Total Death cases
-  -Death percentage 
+  * Total infected cases
+  * Total Death cases
+  * Death percentage 
 * Infections rate compared to population per country over time.
 * Total death cases per continent.
 * Percent people vaccinated compared to population per country over time.
