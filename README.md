@@ -12,7 +12,7 @@ The project consists :
 
 * Raw Data - Excel
 * SQL queries 
-* Visualization - Tableau Dashboard 
+* Visualization - Tableau Dashboard -
 [Here is the link for COVID Dashboard Tutorial](https://public.tableau.com/app/profile/orly.barr/viz/CovidDashboardTutorial_16648194559100/Dashboard1#1)
 
 
